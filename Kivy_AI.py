@@ -1,4 +1,4 @@
-import g4f
+import g4f #Импорт библиотеки
 
 def res(text):
     try:
