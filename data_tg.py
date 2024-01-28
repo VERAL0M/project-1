@@ -1,5 +1,5 @@
 import sqlite3
-
+#Подключение к базе данных для сохранения изображений из ТГ бота в бинарном формате
 conn = sqlite3.connect('data_gp.db')
 cur = conn.cursor()
 
