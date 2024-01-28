@@ -24,7 +24,7 @@ from kivymd.uix.selectioncontrol import MDCheckbox
 from database import Database
 from data_tg import *
 db = Database()
-
+#Главный файл
 Window.size = (360, 640)
 r =None
 number=None
