@@ -1,4 +1,5 @@
 import sqlite3
+#Подключение к базе данных которая хранит в себе задачи из Task Manager
 
 class Database:
     def __init__(self):
